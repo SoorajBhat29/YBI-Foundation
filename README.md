@@ -49,8 +49,3 @@ Final anomaly flag based on multiple models.
 Visual representation of anomalies over time.
 
 
-##  How to Run the Project
-
-###  Clone the Repository
-git clone https://github.com/SoorajBhat29/YBI-Foundation.git
-
