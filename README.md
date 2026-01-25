@@ -47,3 +47,10 @@ The dataset contains time-series sensor readings recorded every few minutes from
 Binary anomaly labels for each data point.
 Final anomaly flag based on multiple models.
 Visual representation of anomalies over time.
+
+
+##  How to Run the Project
+
+###  Clone the Repository
+git clone https://github.com/SoorajBhat29/YBI-Foundation.git
+
